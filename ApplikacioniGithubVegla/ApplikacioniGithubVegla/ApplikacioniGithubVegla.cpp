@@ -12,13 +12,14 @@ int main()
         return x + y;
     }
     cout << "Hello World!\n";
+    
 }
-int total=mbledh3numra(5,10,15);
-if (total>20)
-{
-    cout<<"Shuma eshte me e madhe se 20"<<endl;
+double mesatarja(int mbledh3numra, int madhesia) {
+    int shuma = 0;
+    for (int i = 0; i < madhesia; i++) {
+        shuma += mbledh3numra [i];
+    }
+    return (double)shuma / madhesia;
+}
+    
 
-} else {
-    cout <<"Shuma eshte 20 ose me e vogel se 20"<<endl;
-}
-// koment
