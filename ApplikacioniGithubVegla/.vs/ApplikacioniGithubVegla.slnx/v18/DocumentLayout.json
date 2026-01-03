@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drilo\\OneDrive\\Desktop\\ApplikacioniGithubVegla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CDE69E-889F-46AC-A9AD-EB1FD3F98AA5}|ApplikacioniGithubVegla\\ApplikacioniGithubVegla.vcxproj|C:\\Users\\drilo\\OneDrive\\Desktop\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CDE69E-889F-46AC-A9AD-EB1FD3F98AA5}|ApplikacioniGithubVegla\\ApplikacioniGithubVegla.vcxproj|solutionrelative:ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplikacioniGithubVegla.cpp",
+              "DocumentMoniker": "C:\\Users\\drilo\\OneDrive\\Desktop\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "RelativeDocumentMoniker": "ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "ToolTip": "C:\\Users\\drilo\\OneDrive\\Desktop\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "RelativeToolTip": "ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T12:24:55.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
