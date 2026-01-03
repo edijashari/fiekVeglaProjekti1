@@ -13,3 +13,9 @@ int main()
     }
     cout << "Hello World!\n";
 }
+int total=mbledh3numra(5,10,15);
+if (total>20)
+{
+    cout<<"Shuma eshte me e madhe se 20"<<endl;
+
+}
