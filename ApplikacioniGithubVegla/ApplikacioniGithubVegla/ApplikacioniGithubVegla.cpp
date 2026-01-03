@@ -21,3 +21,4 @@ if (total>20)
 } else {
     cout <<"Shuma eshte 20 ose me e vogel se 20"<<endl;
 }
+// koment
