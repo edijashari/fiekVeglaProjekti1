@@ -12,8 +12,7 @@ int main()
         return x + y;
     }
     cout << "Hello World!\n";
-    
-}
+    }
 double mesatarja(int mbledh3numra, int madhesia) {
     int shuma = 0;
     for (int i = 0; i < madhesia; i++) {
@@ -21,5 +20,8 @@ double mesatarja(int mbledh3numra, int madhesia) {
     }
     return (double)shuma / madhesia;
 }
+    
+    
+
     
 
