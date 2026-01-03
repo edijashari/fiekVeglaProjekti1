@@ -18,4 +18,6 @@ if (total>20)
 {
     cout<<"Shuma eshte me e madhe se 20"<<endl;
 
+} else {
+    cout <<"Shuma eshte 20 ose me e vogel se 20"<<endl;
 }
