@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\fiekVeglaProjekti1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\edijashari\\fiekVeglaProjekti1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\edijashari\\fiekVeglaProjekti1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\edijashari\\fiekVeglaProjekti1\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\edijashari\\fiekVeglaProjekti1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\edijashari\\fiekVeglaProjekti1\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T15:21:05.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplikacioniGithubVegla.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\edijashari\\fiekVeglaProjekti1\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "RelativeDocumentMoniker": "ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\edijashari\\fiekVeglaProjekti1\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "RelativeToolTip": "ApplikacioniGithubVegla\\ApplikacioniGithubVegla\\ApplikacioniGithubVegla.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T14:21:02.179Z",
+              "EditorCaption": ""
             }
           ]
         }
