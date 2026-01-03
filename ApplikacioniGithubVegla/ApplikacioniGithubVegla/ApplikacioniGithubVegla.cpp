@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 int main()
 {
     int mbledh3numra(int a, int b, int c)
@@ -12,6 +13,7 @@ int main()
         return x + y;
     }
     cout << "Hello World!\n";
+
 }
 int total=mbledh3numra(5,10,15);
 if (total>20)
@@ -21,4 +23,3 @@ if (total>20)
 } else {
     cout <<"Shuma eshte 20 ose me e vogel se 20"<<endl;
 }
-// koment
