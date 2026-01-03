@@ -20,6 +20,14 @@ double mesatarja(int mbledh3numra, int madhesia) {
     }
     return (double)shuma / madhesia;
 }
+}
+
+    int min = a[0];
+
+    for (int i = 1; i < n; i++) {
+        if (a[i] < min) {
+            min = a[i];
+        }
     
     
 
