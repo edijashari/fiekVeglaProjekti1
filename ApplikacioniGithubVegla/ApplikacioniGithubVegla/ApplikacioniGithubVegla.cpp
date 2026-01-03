@@ -7,5 +7,9 @@ int main()
     {
         return a + b + c;
     }
+    double mledhi2NumraDouble(double x, double y)
+    {
+        return x + y;
+    }
     cout << "Hello World!\n";
 }
